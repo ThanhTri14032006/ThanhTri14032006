@@ -1,45 +1,49 @@
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<p align="center">
+  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" width="150"/>
+</p>
 
-# Hi, I'm **Thành Trí** 👋
-
-I’m a **Front-End Developer** passionate about creating software products that bring value to others 😴  
-
-- 🌿 I love **nature**, fishing, and hiking.  
-- 🎧 I enjoy **podcasts** and exploring new ideas.  
-- 🏃‍♂️ Running keeps me energized and focused.  
-- ✈️ I love **traveling** and discovering new opportunities.  
-- 📚 Always **learning new things** to improve my craft.  
+<h1 align="center">
+  <span style="background: linear-gradient(to right, #ff6a00, #ee0979); -webkit-background-clip: text; color: transparent;">Thành Trí</span>
+</h1>
+<p align="center">Front-End Developer 💻 | Dreaming big & creating value 🚀</p>
 
 ---
 
-## 📫 Connect with me
-
-[LinkedIn](https://www.linkedin.com/in/phạm-thành-trí-73ba93362/) | [Email](mailto:your-email@example.com)
-
----
-
-## 🛠️ Tech Stack & Skills
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-</div>
-
-- 💻 **Front-End:** HTML5, CSS3, JavaScript, React  
-- 🔧 **Tools:** Git, GitHub, VS Code  
-- 🎨 **Design:** Responsive Layout, Figma basics  
+## 🌟 About Me
+- Love **nature** 🎣🌲, podcasts 🎧, running 🏃‍♂️  
+- Always **learning** 📄, always exploring 🌍  
+- Travel & find new opportunities ✈️  
+- Motto: *Code hard, dream bigger* 💡
 
 ---
 
-## ⚡ Fun Facts
-
-- I love **coding in nature** 🌲  
-- I drink **coffee while debugging** ☕  
-- I try to **balance work, learning, and fun** 🎯  
+## 💻 Tech Stack
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+</p>
 
 ---
 
-![Thành Trí GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+## 📫 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/phạm-thành-trí-73ba93362/" target="_blank">LinkedIn 🔗</a> | 
+  <a href="mailto:youremail@example.com" target="_blank">Email ✉️</a> | 
+  <a href="https://github.com/yourusername" target="_blank">GitHub 🐱</a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+- I code, I create, I explore 🌟  
+- Always coffee in hand ☕, music in ears 🎶  
+- Motto: *Dream big, ship bigger!* 💥
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD6HSmjUEbi3wta/giphy.gif" width="200"/>
+</p>
