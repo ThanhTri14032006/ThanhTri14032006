@@ -3,44 +3,57 @@
 </p>
 
 <h1 align="center">
-  <span style="background: linear-gradient(to right, #ff6a00, #ee0979); -webkit-background-clip: text; color: transparent;">Thành Trí</span>
+  <span style="background: linear-gradient(to right, #ff6a00, #ee0979, #8e2de2); -webkit-background-clip: text; color: transparent; font-weight: bold;">
+    🚀 Thành Trí 🚀
+  </span>
 </h1>
-<p align="center">Front-End Developer 💻 | Dreaming big & creating value 🚀</p>
 
----
-
-## 🌟 About Me
-- Love **nature** 🎣🌲, podcasts 🎧, running 🏃‍♂️  
-- Always **learning** 📄, always exploring 🌍  
-- Travel & find new opportunities ✈️  
-- Motto: *Code hard, dream bigger* 💡
-
----
-
-## 💻 Tech Stack
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  <b>Front-End Developer 💻 | Dreaming Big & Creating Value 🌟</b>
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 🌟 About Me  
+- 🌲 Love **nature**, 🎧 podcasts, 🏃 running  
+- 🌍 Passion for **exploring & traveling** ✈️  
+- 💡 Motto: *Code hard, dream bigger*  
+- 🔥 Always learning, always shipping  
+
+---
+
+## 💻 Tech Stack  
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/phạm-thành-trí-73ba93362/" target="_blank">LinkedIn 🔗</a> | 
-  <a href="mailto:youremail@example.com" target="_blank">Email ✉️</a> | 
-  <a href="https://github.com/yourusername" target="_blank">GitHub 🐱</a>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-## ⚡ Fun Fact
-- I code, I create, I explore 🌟  
-- Always coffee in hand ☕, music in ears 🎶  
-- Motto: *Dream big, ship bigger!* 💥
+## 📫 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/phạm-thành-trí-73ba93362/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:youremail@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Facts  
+- ☕ Always with coffee, 🎶 music in ears  
+- ✨ I code, I create, I explore  
+- 💥 Motto: *Dream big, ship bigger!*  
 
 ---
 
