@@ -33,19 +33,6 @@
 </p>
 
 ---
-
-## GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=radical&border_radius=8&date_format=j%20M%5B%20Y%5D"/>
-</p>
-
----
 ##  Connect with Me  
 
 <p align="center">
